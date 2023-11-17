@@ -11,3 +11,6 @@ Esta asignatura es bastante extensa estamos aprendiendo muchas cosas y entre ell
 | 2023-12-15  | Práctico       | Practicando GIT           |
 | 2024-01-10  | Práctico       | Usando GIT en real        |
 
+##Enlaces
+
+[Componente 1: RTX 3080](hardware/hardware1.md)
