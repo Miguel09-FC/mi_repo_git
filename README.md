@@ -14,3 +14,4 @@ Esta asignatura es bastante extensa estamos aprendiendo muchas cosas y entre ell
 ##Enlaces
 
 [Componente 1: RTX 3080](hardware/hardware1.md)
+[Componente 2: Ryzen 7 5800](hardware/hardware2.md)
